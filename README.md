@@ -2,8 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-swetha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swetha-venkatesan-43b632238/)](https://www.linkedin.com/in/swetha-venkatesan-43b632238/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
-[![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
+[![Website Badge](https://img.shields.io/badge/WebSite-swetha-green)](https://swethavportfolio.netlify.app/)
 
 I'm
 Full Stack Developer
