@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-swetha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swetha-venkatesan-43b632238/)](https://www.linkedin.com/in/swetha-venkatesan-43b632238/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-swetha)](https://swetha-portfolio-resume.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-swetha-grey)](https://swetha-portfolio-resume.netlify.app/)
 
 I'm Full Stack Developer, Possessing extensive knowledge and expertise in MERN Stack web development with ReactJS , Redux ,
 Node.js ,Express,mongoDB, JavaScript, HTML, and CSS. Experienced in building responsive and user-friendly web applications.
