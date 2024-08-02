@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-swetha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swetha-venkatesan-43b632238/)](https://www.linkedin.com/in/swetha-venkatesan-43b632238/)
-[![Website Badge](https://img.shields.io/badge/WebSite-swetha-green)](https://swethavportfolio.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/WebSite-swetha-green)](https://swetha-portfolio-resume.netlify.app/)
 
 I'm
 Full Stack Developer
