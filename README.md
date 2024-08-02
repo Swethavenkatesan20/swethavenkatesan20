@@ -5,8 +5,11 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-swetha-grey)](https://swetha-portfolio-resume.netlify.app/)
 
 I'm Full Stack MERN Developer.
+
 I’m currently working as Freelancer for companies for building responsive application.
+
 I have previously worked in Accenture having 1.6 years of experience in fullstack development. 
+
 I am a certified FULLSTACK developer, with wide range of knowledge and expertise in MERN Stack web development with ReactJS , Redux ,
 Node.js ,Express,mongoDB, JavaScript, HTML, and CSS. Experienced in building responsive and user-friendly web applications.
 
