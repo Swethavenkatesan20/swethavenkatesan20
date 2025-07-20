@@ -40,7 +40,7 @@ Languages and Tools:
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img alt="Express" src="https://img.shields.io/badge/express-%2300f.svg?style=flat-square&logo=express&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swethavenkatesan20&show_icons=true&theme=tokyonight&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swethavenkatesan20&show_icons=true&theme=tokyonight&include_all_commits=true&pr=false)
 
 
 
