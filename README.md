@@ -48,7 +48,7 @@ I'm a frontend developer with 3+ years of experience specializing in React.js, J
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swethavenkatesan20&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swethavenkatesan20&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swethavenkatesan20&theme=tokyonight&hide=currentstreaks)
 
 ---
 
