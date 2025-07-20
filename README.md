@@ -29,6 +29,8 @@ Certified in Full Stack Development with hands-on skills in React, Node.js, Mong
 
 ![Visitor Count](https://profile-counter.glitch.me/swethavenkatesan20/count.svg)
 ![Visitor Count](https://profile-counter.glitch.me/swethavenkatesan20/count.svg)
+![Visitor Count](https://profile-counter.deno.dev/swethavenkatesan20/count.svg)
+
 
 
 
