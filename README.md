@@ -1,62 +1,56 @@
-### 👋 Hello Developers!
+### 👋 Hi there! I'm Swe Tha Venkat e San
 
-I'm a Full Stack MERN Developer with 3+ years of experience building responsive web applications.  
-Currently working as frontend developer in Aziro technology, and previously at Accenture (1.6 years) across frontend, backend, and deployment.  
-Certified in Full Stack Development with hands-on skills in React, Node.js, MongoDB, and modern web technologies.
+🌟 **Frontend Developer | Software Engineer**  
+📍 Chennai, India  
+📧 swethavenkatesan20@gmail.com • 📞 +91 63823 84445  
+🔗 [GitHub](https://github.com/Swethavenkatesan20) 
 
+---
 
-🔭 I’m currently working on scalable MERN apps for e-commerce and enterprise clients  
-🌱 I’m improving my skills in performance optimization and CI/CD workflows  
-💬 Ask me about React architecture, reusable components, or deployment pipelines  
-👯 I’m open to collaborating on open-source projects or freelance gigs  
-📫 Reach me: swethavenkatesan20@email.com  
+### 💼 About Me
 
+I'm a frontend developer with 3+ years of experience specializing in React.js, JavaScript, and Node.js. Currently working at **Aziro Technology**, where I develop enterprise-level applications and reusable UI libraries. Previously worked at **Accenture**, contributing to full-stack development and project deployments. I’m passionate about building responsive, clean user interfaces and simplifying complex workflows with efficient code.
 
+---
 
-### 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-- [Reusable React Component Library](https://github.com/Swethavenkatesan20/AntD_Timeline_Component.git)  
-  A collection of customizable UI components used across internal teams
+**Languages**: JavaScript  
+**Frontend**: HTML, CSS, React.js, Redux, Ant Design, EJS  
+**Backend**: Node.js, Express.js  
+**Databases**: MongoDB, MySQL  
+**Authentication**: Azure AD, ForgeRock, Okta, OAuth 2.0, JWT  
+**Tools**: Git, GitHub, VS Code, Postman  
+**Testing**: Unit Testing, API Testing
 
-- [resource platform application using React](https://github.com/Swethavenkatesan20/Resource_platform.git)  
-  Enterprise Resource platform application with get and post API
+---
 
-- [Virtual table rendering using plain javascript](https://github.com/Swethavenkatesan20/Virtual_Rendering_table_JavaScript.git)  
-  Real time virtual rendering usingplain javascript without any external libraries. 
+### 🔨 What I'm Working On
+- 🚀 Resource Manager app with secure user authentication and real-time data visualization  
+- 📦 Reusable component libraries for internal teams, including custom Timeline and TreeSelect  
+- 🧠 R&D on modern identity platforms like Okta and ForgeRock  
 
+---
 
+### 🏆 Achievements
+- 📘 Authored an e-book on MERN stack development  
+- 🥇 Hackathon MERNovation certificate winner  
+- 🌟 Best Employee of the Month at Aziro Technology  
+- 🎓 College Mini Project Award  
+- 🎖️ Certified: Azure Fundamentals, MERN (GUVI IITM), Skyscanner-Forage Front-End
 
+---
 
-![Visitor Count](https://profile-counter.glitch.me/swethavenkatesan20/count.svg)
-![Visitor Count](https://profile-counter.deno.dev/swethavenkatesan20/count.svg)
+### 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swethavenkatesan20&show_icons=true&theme=tokyonight&include_all_commits=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swethavenkatesan20&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swethavenkatesan20&theme=tokyonight)
 
-Languages and Tools: 
+---
 
+### ✨ Fun Fact
+I enjoy turning complex problems into elegant frontend solutions—and I love sharing what I learn along the way!
 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F24E1E.svg?style=flat-square&logo=javascript&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img alt="Express" src="https://img.shields.io/badge/express-%2300f.svg?style=flat-square&logo=express&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swethavenkatesan20&show_icons=true&theme=tokyonight&include_all_commits=true&pr=false)
-
-
-
-![](https://activity-graph.herokuapp.com/graph?username=swethavenkatesan20&theme=react-dark&area=true)
-<!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
-
--->
