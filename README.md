@@ -1,7 +1,7 @@
 ### 👋 Hello Developers!
 
 I'm a Full Stack MERN Developer with 3+ years of experience building responsive web applications.  
-Currently working as a freelancer, and previously at Accenture (1.6 years) across frontend, backend, and deployment.  
+Currently working as frontend developer in Aziro technology, and previously at Accenture (1.6 years) across frontend, backend, and deployment.  
 Certified in Full Stack Development with hands-on skills in React, Node.js, MongoDB, and modern web technologies.
 
 
@@ -28,7 +28,7 @@ Certified in Full Stack Development with hands-on skills in React, Node.js, Mong
 
 
 ![Visitor Count](https://profile-counter.glitch.me/swethavenkatesan20/count.svg)
-![Visitor Count](https://profile-counter.glitch.me/{swethavenkatesan20}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/swethavenkatesan20/count.svg)
 
 
 
