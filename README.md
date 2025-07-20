@@ -43,7 +43,8 @@ I'm a frontend developer with 3+ years of experience specializing in React.js, J
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swethavenkatesan20&show_icons=true&theme=tokyonight&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swethavenkatesan20&show_icons=true&theme=tokyonight&hide=prs,issues,contribs)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swethavenkatesan20&layout=compact&theme=tokyonight)
 
