@@ -1,11 +1,11 @@
-### 👋 Hi there! I'm Swe Tha Venkat e San
+### 👋 Hi there! I'm Swetha Venkatesan
 
 🌟 **Frontend Developer | Software Engineer**  
 📍 Chennai, India  
 📧 swethavenkatesan20@gmail.com • 📞 +91 63823 84445  
 🔗 [GitHub](https://github.com/Swethavenkatesan20) 
 
----
+--
 
 ### 💼 About Me
 
