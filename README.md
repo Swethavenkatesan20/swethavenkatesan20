@@ -5,7 +5,7 @@
 📧 swethavenkatesan20@gmail.com • 📞 +91 63823 84445  
 🔗 [GitHub](https://github.com/Swethavenkatesan20) 
 
---
+---
 
 ### 💼 About Me
 
